@@ -1,5 +1,5 @@
 ############################################################################################################
-##                         Password Generator with User Interface by Skidded#8658                         ##
+##                         Password Generator with User Interface by 💸#8658                             ##
 ############################################################################################################
 
 from tkinter import *
@@ -7,7 +7,7 @@ import random
 import string
 root=Tk()
 root.geometry("600x140")
-root.title("Skidded#8658's Password Generator")
+root.title("Cash Developments | Password Generator")
 root.configure(bg="#2c2a2a")
 passString=StringVar()
 passLength=IntVar()
